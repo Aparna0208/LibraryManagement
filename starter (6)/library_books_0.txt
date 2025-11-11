@@ -1,0 +1,84 @@
+The Great Gatsby
+Scott Fitzgerald
+1234567890
+1984
+George Orwell
+0987654321
+To Kill a Mockingbird
+Harper Lee
+1230984567
+Pride and Prejudice
+Jane Austen
+1234567890123
+The Catcher in the Rye
+J.D. Salinger
+9780316769488
+Moby-Dick
+Herman Melville
+9780142437247
+War and Peace
+Leo Tolstoy
+9781400079988
+Crime and Punishment
+Fyodor Dostoevsky
+9780143058144
+Frankenstein
+Mary Shelley
+9780141439471
+Brave New World
+Aldous Huxley
+9780060850524
+The Hobbit
+J.R.R. Tolkien
+9780547928227
+The Lord of the Rings
+J.R.R. Tolkien
+9780618640157
+Jane Eyre
+Charlotte Bronte
+9780142437209
+Wuthering Heights
+Emily Bronte
+9780141439556
+The Brothers Karamazov
+Fyodor Dostoevsky
+9780374528379
+Great Expectations
+Charles Dickens
+9780141439563
+Ulysses
+James Joyce
+9780141182803
+The Divine Comedy
+Dante Alighieri
+9780142437223
+Meditations
+Marcus Aurelius
+9780486298238
+Les Miserables
+Victor Hugo
+9780140444308
+The Count of Monte Cristo
+Alexandre Dumas
+9780140449266
+Anna Karenina
+Leo Tolstoy
+9780143035008
+Don Quixote
+Miguel Cervantes
+9780060934347
+The Picture of Dorian Gray
+Oscar Wilde
+9780141439570
+Heart of Darkness
+Joseph Conrad
+9780141441672
+The Scarlet Letter
+Nathaniel Hawthorne
+9780142437261
+The Metamorphosis
+Franz Kafka
+9780553213690
+Slaughterhouse-Five
+Kurt Vonnegut
+9780385333849
